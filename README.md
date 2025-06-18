@@ -43,7 +43,7 @@ etl_exam/
 
 </details> 
 
-> После создания таблицы тот же CSV-файл `transactions_v2.csv` загружается в YDB.
+> После создания таблицы CSV-файл `transactions_v2.csv` загружается в YDB.
 
 ---
 
